@@ -2,4 +2,4 @@
 
 _**UNDER CONSTRUCTION**_
 
-_**an experiment to learn go with**_
+_**an experiment to learn the go lang**_
