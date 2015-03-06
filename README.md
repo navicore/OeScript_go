@@ -1,5 +1,4 @@
-# OeScript_go
-a golang impl of OeScript
+# OeScript for Golang
 
 _**UNDER CONSTRUCTION**_
 
